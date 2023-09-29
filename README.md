@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joy sutradhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joy sutradhar" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/joy sutradhar](https://www.linkedin.com/in/joy-sutradhar-099095205/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joy sutradhar" height="30" width="40" /></a>
 <a href="https://fb.com/joy sutradhar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joy sutradhar0" height="30" width="40" /></a>
 </p>
 
